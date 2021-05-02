@@ -1,7 +1,7 @@
 <div align="center">
   <h1>
     <br>
-    <a href=""><img src="/www/favicon_io/android-chrome-512x512.png" alt="Favicon" width="200"></a>
+    <a href=""><img src="icon.png" alt="Favicon" width="200"></a>
     <br>
     Double Pendule
     <br>
