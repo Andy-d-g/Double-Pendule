@@ -85,4 +85,4 @@ $ Modélisation de deux cube étiré pour la liaison des sphères
 
 ## Contributeurs
 
-@AndyGuillaume , amsi@up8.edu
+@AndyGuillaume , @noalien
